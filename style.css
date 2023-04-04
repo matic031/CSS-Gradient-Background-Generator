@@ -385,12 +385,11 @@ h2 {
 
 .random-gradient__section {
   width: 100%;
-  max-height: 10rem;
-  margin-top: 5rem;
+
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10rem;
+ 
 }
 
 .random-gradient__button {
